@@ -11,4 +11,4 @@
 
 ### [StoryBooks App](https://storybooksapplet.herokuapp.com/)
 
-### [ChatBot App](https://chatcordapplet.herokuapp.com/)
+### ChatBot App
